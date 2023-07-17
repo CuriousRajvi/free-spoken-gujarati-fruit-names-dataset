@@ -22,7 +22,7 @@ Files are named in the following format:<br/>
 Example: r1s1t1-01.wav Here r1 suggests region 1, s1 suggests speaker 1 from that region, t1 suggests trial 1, and 01 suggests fruit 1(chiku).<br/>
 
 <h1>Contributions:</h1>
-<p>Please contribute your homemade recordings. All recordings should be mono 44kHz wav files and be trimmed to have minimal silence. Don't forget to update speaker_date.xlsx with the speaker meta-data. To add your data, follow the recording instructions follow the details given above.</p>
+<p>Please contribute your homemade recordings. All recordings should be mono 44kHz wav files and be trimmed to have minimal silence. Don't forget to update metadata.csv with the speaker meta-data. To add your data, follow the recording instructions follow the details given above.</p>
 
 <h1>Contributors:</h1>
 <p>Rajvi Desai</p>
